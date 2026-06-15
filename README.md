@@ -95,7 +95,7 @@ git clone https://github.com/yourusername/snake-and-ladder.git
 
 Add screenshots of your gameplay, game board, and UI here.
 
-```text
+
 <img width="1536" height="1024" alt="ChatGPT Image Jun 15, 2026, 12_14_04 AM" src="https://github.com/user-attachments/assets/21168279-693c-4021-a5e7-707d8c2aa7fd" />
 
 <img width="1295" height="1214" alt="ChatGPT Image Jun 15, 2026, 12_08_25 AM" src="https://github.com/user-attachments/assets/969ac47d-858c-472d-b131-e30b1423f2dc" />
